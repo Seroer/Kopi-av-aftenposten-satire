@@ -1,0 +1,114 @@
+header {
+  border-right: 25px;
+}
+
+.navbar {
+  border-bottom: solid grey;
+  padding: 5px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  display: flex;
+}
+
+.navbar2 {
+  padding-right: 50px;
+  color: gray;
+  font: lighter;
+}
+
+body {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.logo {
+  font: italic;
+  font-size: 30px;
+  padding-right: 150px;
+}
+
+.nyhetsvarsler {
+  border-bottom: 2px solid gray;
+  padding: 10px;
+  text-size-adjust: 50%;
+  flex-direction: row;
+  display: flex;
+  color: black;
+}
+
+.nyhetsvarsler2 {
+  border-left: solid gray;
+  padding-left: 1px;
+}
+
+.nyhetstid {
+  font-size: small;
+  color: blue;
+}
+.hovedartikkel {
+  display: flex;
+  flex-direction: row;
+  border: solid rgb(255, 255, 255) 1px;
+  gap: 10px;
+}
+
+#ikea {
+  width: 100%;
+  height: auto;
+}
+
+.padding1 {
+  padding-bottom: 5px;
+
+  color: white;
+}
+#strek {
+  width: 5px;
+  background-color: rgb(119, 118, 118);
+}
+#artikler {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+#bildetest {
+  width: 100%;
+  height: max-content;
+}
+
+#ikeatekst {
+  font-weight: bold;
+}
+
+#sidebilde {
+  width: 35%;
+  padding-right: 15px;
+}
+
+#sidebilde2 {
+    height: 150px;
+    width: 35%;
+    padding-right: 15px;
+  }
+
+.sideartikkler {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-bottom: solid grey;
+  display: flex;
+  flex-direction: row;
+}
+
+.lilleartikkeltekst {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 6px;
+}
+
+#sidebilde3 {
+    height: 150px;
+    width: 35%;
+    padding-right: 15px;
+  }
